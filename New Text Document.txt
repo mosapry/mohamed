@@ -1,0 +1,2 @@
+ <meta name="viewport" content="width=device-width; initial-scale=0.43; maximum-scale=1.5;">
+    <link rel="apple-touch-icon" href="images/template/picture.png"/>
